@@ -1,2 +1,4 @@
 # MVVM
 MVC向MVVM的转换
+Demo里面有一个MVCDemo和一个MVVMDemo,应用场景都是在一个TableView上显示网络请求的数据。目前还没写上下拉刷新，只是先熟悉下MVVM。
+这只是一个简单的MVVM，仅仅把网络请求单独拿出来，放在TableViewModel中。
