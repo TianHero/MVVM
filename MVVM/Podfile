@@ -1,0 +1,24 @@
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+
+target 'MVVM' do
+pod 'AFNetworking', '~> 3.0'
+end
+pod 'MJExtension'
+
+pod 'MJRefresh'
+
+pod 'Masonry'
+
+pod 'SDWebImage'
+
+pod 'MBProgressHUD'
+
+
+
+
+
+
+
+
